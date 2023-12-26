@@ -1,14 +1,14 @@
-import Html from "./Assets/Html.png";
-import Css from "./Assets/Css.png";
-import Git from "./Assets/Git.png";
-import Github from "./Assets//Github.png";
-import Js from "./Assets/JavaScript.png";
-import Json from "./Assets/Json.png"
-import Type from "./Assets/TypeScript.png";
-import Rect from "./Assets/React.png";
-import Vue from "./Assets/Vue.png";
-import Py from "./Assets/Python.png";
-import "../Styles/Skills.css";
+import Html from "./assets/Html.png";
+import Css from "./assets/Css.png";
+import Git from "./assets/Git.png";
+import Github from "./assets//Github.png";
+import Js from "./assets/JavaScript.png";
+import Json from "./assets/Json.png"
+import Type from "./assets/TypeScript.png";
+import Rect from "./assets/React.png";
+import Vue from "./assets/Vue.png";
+import Py from "./assets/Python.png";
+import "../styles/Skills.css";
 
 function Skills() {
   return (
@@ -21,61 +21,61 @@ function Skills() {
           </p>
           <div className="skils-layout">
             <div className="skills-cart">
-              <img src={Html} alt="" width={82} />
+              <img src={Html} alt="" width={79} />
               <br />
               <span>Html</span>
             </div>
             <br />
             <div className="skills-cart">
-              <img src={Css} alt="" width={82} />
+              <img src={Css} alt="" width={79} />
               <br />
               <span>Css</span>
             </div>
             <br />
             <div className="skills-cart">
-              <img src={Git} alt="" width={82} />
+              <img src={Git} alt="" width={79} />
               <br />
               <span>Git</span>
             </div>
             <br />
             <div className="skills-cart">
-              <img src={Github} alt="" width={82} />
+              <img src={Github} alt="" width={79} />
               <br />
               <span>Github</span>
             </div>
             <br />
             <div className="skills-cart">
-              <img src={Js} alt="" width={82} />
+              <img src={Js} alt="" width={79} />
               <br />
               <span>JavaScript</span>
             </div>
             <br />
             <div className="skills-cart">
-              <img src={Json} alt="" width={82} />
+              <img src={Json} alt="" width={79} />
               <br />
               <span>Json</span>
             </div>
             <br />
             <div className="skills-cart">
-              <img src={Type} alt="" width={82} />
+              <img src={Type} alt="" width={79} />
               <br />
               <span>TypeScript</span>
             </div>
             <br />
             <div className="skills-cart">
-              <img src={Rect} alt="" width={82} />
+              <img src={Rect} alt="" width={79} />
               <br />
               <span>React</span>
             </div>
             <br />
             <div className="skills-cart">
-              <img src={Vue} alt="" width={82} />
+              <img src={Vue} alt="" width={79} />
               <br />
               <span>Vue</span>
             </div>
             <br />
             <div className="skills-cart">
-              <img src={Py} alt="" width={82} />
+              <img src={Py} alt="" width={79} />
               <br />
               <span>Python</span>
             </div>

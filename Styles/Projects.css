@@ -1,0 +1,33 @@
+#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.projects{
+    margin: 0rem;
+    padding: 1rem;
+    background-color: #171717;
+    color: whitesmoke;
+    display: flex;
+}
+
+.projects-container{
+    margin: 0rem;
+    padding: 1rem;
+    background-color: #212121;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+}
+
+.projects-cart{
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #202020;
+    border: #333 solid 0.1rem;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+}

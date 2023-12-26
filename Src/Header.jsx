@@ -1,5 +1,5 @@
-import Logotipo from '../Public/Logotipo.png'
-import '../Styles/Header.css'
+import Logotipo from '../public/Logotipo.png'
+import '../styles/Header.css'
 
 function Header() {
   return (
